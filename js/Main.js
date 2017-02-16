@@ -23,4 +23,4 @@ function checkTime(){
   }//BREAK TIME
 }
 
-setInterval(checkTime, 1000);
+setInterval(checkTime, 300);
